@@ -1,2 +1,3 @@
 # hello-world
-Just another repository, nothing interesting.
+
+I am an ecommerce developer, languages PHP, HTML, CSS and some Java, C# and Ruby.
